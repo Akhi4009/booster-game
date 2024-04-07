@@ -1,0 +1,4 @@
+[*.cs]
+
+# Default severity for analyzer diagnostics with category 'TypeSafety'
+dotnet_analyzer_diagnostic.category-TypeSafety.severity = none
